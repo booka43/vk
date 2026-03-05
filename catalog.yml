@@ -27,7 +27,7 @@
 <description>Магнитная клавиатура 80% раскладки с переключателями Hall Effect, OLED дисплей, RGB подсветка, металлический роллер, EVANGELION дизайн</description>
 <param name="Бренд">MelGeek</param>
 <param name="Тип">Магнитная</param>
-<picture>https://imgur.com/DDHYPzz</picture>
+<picture>https://imgur.com/a/melgeek-centauri-80-ayanami-rei-GrdhdAW#DDHYPzz</picture>
 </offer>
 
 <offer id="К_MG_Centauri60_EVA" available="true">
@@ -1163,4 +1163,5 @@
 
 </offers>
 </shop>
+
 </yml_catalog>
