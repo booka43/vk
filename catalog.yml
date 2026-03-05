@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2024-01-15 10:00">
+<shop>
+<name>Магазин игровой периферии</name>
+<company>Ваш магазин</company>
+<url>https://vash-sait.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Клавиатуры</category>
+<category id="2">Мыши</category>
+<category id="3">Наушники</category>
+<category id="4">Коврики</category>
+<category id="5">Механические клавиатуры</category>
+<category id="6">Магнитные клавиатуры</category>
+</categories>
+<offers>
+
+<!-- MelGeek -->
+<offer id="К_MG_Centauri80_EVA" available="true">
+<price>28900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek x EVANGELION Centauri 80</name>
+<description>Магнитная клавиатура 80% раскладки с переключателями Hall Effect, OLED дисплей, RGB подсветка, металлический роллер, EVANGELION дизайн</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+<picture>https://imgur.com/DDHYPzz</picture>
+</offer>
+
+<offer id="К_MG_Centauri60_EVA" available="true">
+<price>25900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek x EVANGELION Centauri 60</name>
+<description>Компактная 60% магнитная клавиатура с переключателями Hall Effect, RGB, EVANGELION тематика, программируемые клавиши</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+<picture>https://imgur.com/vJG49eU</picture>
+</offer>
+
+<offer id="К_MG_Centauri80" available="true">
+<price>24900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek Centauri 80</name>
+<description>80% магнитная клавиатура с Hall Effect переключателями, OLED экран, RGB подсветка, gasket mount, 5-слойная шумоизоляция</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_Centauri60" available="true">
+<price>21900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek Centauri 60</name>
+<description>60% компактная магнитная клавиатура, Hall Effect switches, RGB, programmable, USB-C, алюминиевая рама</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_MADE68_PRO" available="true">
+<price>19900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek MADE 68 PRO+</name>
+<description>65% магнитная клавиатура с переключателями Hall Effect, RGB подсветка, hot-swap, gasket mount, алюминиевый корпус</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_MADE68_ULTRA" available="true">
+<price>23900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek MADE 68 ULTRA+</name>
+<description>Премиальная 65% магнитная клавиатура, Hall Effect switches, OLED дисплей, RGB, три режима подключения</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_MADE84_PRO" available="true">
+<price>21900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek MADE 84 PRO</name>
+<description>75% магнитная клавиатура с цифровым блоком, Hall Effect, RGB подсветка, programmable keys</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_MADE68_ULTRA_EVA" available="true">
+<price>26900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek x EVANGELION MADE 68 ULTRA+</name>
+<description>65% магнитная клавиатура с дизайном EVANGELION, Hall Effect switches, OLED, RGB</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_MADE84_ULTRA" available="true">
+<price>25900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek MADE 84 ULTRA+</name>
+<description>75% премиальная магнитная клавиатура, Hall Effect, OLED экран, три режима подключения, RGB</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="Мш_MG_HORUS" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MelGeek HORUS</name>
+<description>Беспроводная игровая мышь, сенсор 26000 DPI, 65г вес, переключатели Omron, RGB подсветка</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MG_HORUS_EVA" available="true">
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MelGeek HORUS x EVANGELION</name>
+<description>Беспроводная мышь 26000 DPI, 65г, EVANGELION дизайн, RGB, 80 часов работы</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="К_MG_REAL81" available="true">
+<price>18900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek REAL81</name>
+<description>75% магнитная клавиатура, Hall Effect переключатели, RGB, gasket mount, алюминиевая рама</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MG_REAL67" available="true">
+<price>16900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MelGeek REAL67</name>
+<description>65% компактная магнитная клавиатура, Hall Effect, RGB подсветка, hot-swap</description>
+<param name="Бренд">MelGeek</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="КМ_MG_EVA" available="true">
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши MelGeek x EVANGELION</name>
+<description>Игровой коврик 900x400мм, прорезиненная основа, EVANGELION принт, водоотталкивающее покрытие</description>
+<param name="Бренд">MelGeek</param>
+<param name="Размер">900x400мм</param>
+</offer>
+
+<!-- VGN -->
+<offer id="К_VGN_FLASH_Extreme" available="true">
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура VGN FLASH Extreme</name>
+<description>75% магнитная клавиатура, Hall Effect switches, RGB, 8000Hz polling rate, gasket mount</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_VGN_NEON75" available="true">
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура VGN NEON 75</name>
+<description>75% раскладка, магнитные переключатели, RGB подсветка, hot-swap, алюминиевый корпус</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_VGN_NEON68" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура VGN NEON 68</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, programmable, USB-C подключение</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_VGN_V87V2" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура VGN V87 V2</name>
+<description>TKL механическая клавиатура, hot-swap switches, RGB подсветка, gasket mount, PBT keycaps</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<offer id="К_VGN_N75V2" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура VGN N75 V2</name>
+<description>75% механическая клавиатура, hot-swap, RGB, gasket structure, тройное подключение</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<offer id="Мш_VGN_DF2_ProMax" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly F2 Pro Max</name>
+<description>Беспроводная мышь 26000 DPI, 55г вес, PAW3395 сенсор, 8000Hz polling rate</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF2_Ultra" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly F2 Ultra+</name>
+<description>Беспроводная игровая мышь, 26000 DPI, 52г, PAW3395, RGB, 100 часов работы</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF2_Master" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly F2 Master Edition</name>
+<description>Премиум беспроводная мышь, 26000 DPI, 49г, PAW3395, магнитный charging dock</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF2_MasterPlus" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly F2 Master Edition+</name>
+<description>Топовая беспроводная мышь, 26000 DPI, 49г, carbon fiber coating, dock</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Нш_VGN_V1" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники VGN V1</name>
+<description>Беспроводные наушники 2.4GHz, 50мм драйверы, surround 7.1, микрофон, 30 часов работы</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="Мш_VGN_DF2_SE" available="true">
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly F2 SE</name>
+<description>Беспроводная мышь 16000 DPI, 58г, PAW3370 сенсор, RGB подсветка</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DY2_ProMax" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly Y2 Pro Max</name>
+<description>Беспроводная эргономичная мышь, 26000 DPI, 59г, PAW3395, right-handed</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DY2_Master" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly Y2 Master Edition</name>
+<description>Эргономичная беспроводная мышь, 26000 DPI, 56г, PAW3395, premium coating</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DY2_MasterPlus" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly Y2 Master Edition+</name>
+<description>Топовая эргономичная мышь, 26000 DPI, 56г, carbon coating, charging dock</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Нш_VGN_ZHOU_Pro" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники VGN ZHOU Pro</name>
+<description>Беспроводные наушники 2.4GHz+BT, 50мм драйверы, ANC, микрофон, 40 часов</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="Нш_VGN_ZHOU_ProMax" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники VGN ZHOU Pro Max</name>
+<description>Премиум наушники 2.4GHz+BT, 50мм драйверы, ANC, Hi-Res audio, 50 часов</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="Мш_VGN_DF3_SE" available="true">
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly 3 SE</name>
+<description>Беспроводная мышь 16000 DPI, 56г, PAW3370, RGB, 70 часов работы</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF3_Pro" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly 3 Pro</name>
+<description>Беспроводная мышь 26000 DPI, 53г, PAW3395, 8000Hz polling</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF3_ProMax" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly 3 Pro Max</name>
+<description>Беспроводная мышь 26000 DPI, 50г, PAW3395, 8000Hz, 100 часов</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF3_Master" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly 3 Master Edition</name>
+<description>Премиум мышь 26000 DPI, 47г, PAW3395, magnetic dock, RGB</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF3_MasterPlus" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly 3 Master Edition+</name>
+<description>Топовая мышь 26000 DPI, 47г, carbon fiber, wireless charging</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_VGN_DF_King" available="true">
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь VGN Dragonfly King</name>
+<description>Флагманская мышь 26000 DPI, 45г, PAW3395, titanium coating, wireless charging</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="К_VGN_V98ProV3" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура VGN V98Pro V3</name>
+<description>98% механическая клавиатура, hot-swap, RGB, triple mode, gasket mount</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<!-- ATK -->
+<offer id="Мш_ATK_A9_Plus" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK A9 Plus</name>
+<description>Беспроводная мышь 26000 DPI, 59г, PAW3395, RGB, 80 часов работы</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_A9_ProMax" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK A9 Pro Max</name>
+<description>Беспроводная мышь 26000 DPI, 56г, PAW3395, 8000Hz polling</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_A9_UltraMax" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK A9 Ultra Max</name>
+<description>Беспроводная мышь 26000 DPI, 53г, PAW3395, magnetic dock</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_A9_Ultimate" available="true">
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK A9 Ultimate</name>
+<description>Премиум мышь 26000 DPI, 50г, PAW3395, carbon coating, dock</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_A9_Air" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK A9 Air</name>
+<description>Сверхлегкая беспроводная мышь 26000 DPI, 42г, honeycomb shell</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_X1V2_UltraMax" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK X1 V2 Ultra Max</name>
+<description>Беспроводная мышь 26000 DPI, 55г, PAW3395, ergonomic design</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_X1V2_Ultimate" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK X1 V2 Ultimate</name>
+<description>Премиум мышь 26000 DPI, 52г, PAW3395, wireless charging</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_X1V2_Extreme" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK X1 V2 Extreme</name>
+<description>Топовая мышь 26000 DPI, 49г, PAW3395, carbon fiber, dock</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_F1V2_UltraMax" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK F1 V2 Ultra Max</name>
+<description>Беспроводная FPS мышь 26000 DPI, 54г, PAW3395</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_F1V2_Ultimate" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK F1 V2 Ultimate</name>
+<description>Премиум FPS мышь 26000 DPI, 51г, PAW3395, magnetic dock</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_F1V2_Extreme" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK F1 V2 Extreme</name>
+<description>Флагман FPS мышь 26000 DPI, 48г, PAW3395, carbon coating</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_U1V2_Plus" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK U1 V2 Plus</name>
+<description>Беспроводная мышь 26000 DPI, 57г, PAW3395, RGB</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_U1V2_Mini" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK U1 V2 Mini</name>
+<description>Компактная беспроводная мышь 26000 DPI, 48г, PAW3395</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_U1V2_Ultimate" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK U1 V2 Ultimate</name>
+<description>Премиум компактная мышь 26000 DPI, 45г, PAW3395, dock</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_Z1V2_Ultimate" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK Z1 V2 Ultimate</name>
+<description>Беспроводная мышь 26000 DPI, 53г, PAW3395, ergonomic</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_Duckbill" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK Duckbill</name>
+<description>Беспроводная мышь 26000 DPI, 61г, PAW3395, unique shape</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_Ghost_Ultimate" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK Ghost Ultimate</name>
+<description>Беспроводная мышь 26000 DPI, 47г, PAW3395, lightweight</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_Ghost_Extreme" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK Ghost Extreme</name>
+<description>Флагманская мышь 26000 DPI, 44г, PAW3395, carbon fiber</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_ATK_Y9_Ultimate" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь ATK Y9 Ultimate</name>
+<description>Беспроводная эргономичная мышь 26000 DPI, 55г, PAW3395</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="К_ATK_RS6_Air" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK RS6 Air</name>
+<description>60% сверхлегкая магнитная клавиатура, Hall Effect, 40г вес, wireless</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ATK_RS6_Ultra" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK RS6 Ultra</name>
+<description>60% магнитная клавиатура, Hall Effect switches, RGB, wireless</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ATK_A87_Pro" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура ATK A87 Pro</name>
+<description>TKL механическая клавиатура, hot-swap, RGB, gasket mount</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<offer id="К_ATK_60RX" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK 60RX</name>
+<description>60% магнитная клавиатура, Hall Effect, RGB, programmable</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ATK_68RX" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK 68RX</name>
+<description>65% магнитная клавиатура, Hall Effect switches, RGB, hot-swap</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ATK_RS7V2_Ultra" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK RS7 V2 Ultra</name>
+<description>75% магнитная клавиатура, Hall Effect, RGB, wireless, gasket</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ATK_RS7_Turbo" available="true">
+<price>13900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK RS7 Turbo</name>
+<description>75% магнитная клавиатура, Hall Effect, 8000Hz polling, RGB</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ATK_Hex80_QC" available="true">
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура ATK x QC Hex80</name>
+<description>75% магнитная клавиатура, Hall Effect, collaboration edition, RGB</description>
+<param name="Бренд">ATK</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="КМ_ATK_Rider" available="true">
+<price>2900</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши ATK Rider</name>
+<description>Игровой коврик 900x400мм, прорезиненная основа, водоотталкивающее покрытие</description>
+<param name="Бренд">ATK</param>
+<param name="Размер">900x400мм</param>
+</offer>
+
+<offer id="КМ_ATK_Dream" available="true">
+<price>2400</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши ATK Dream</name>
+<description>Игровой коврик 800x400мм, soft surface, anti-slip base</description>
+<param name="Бренд">ATK</param>
+<param name="Размер">800x400мм</param>
+</offer>
+
+<offer id="КМ_ATK_Nana" available="true">
+<price>2900</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши ATK Nana</name>
+<description>Игровой коврик 900x400мм, anime design, stitched edges</description>
+<param name="Бренд">ATK</param>
+<param name="Размер">900x400мм</param>
+</offer>
+
+<offer id="К_VGN_A98_Pro" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура VGN A98 Pro</name>
+<description>98% механическая клавиатура, hot-swap, RGB, triple mode</description>
+<param name="Бренд">VGN</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<offer id="КМ_ATK_Leviatan" available="true">
+<price>3400</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши ATK x Leviatan</name>
+<description>Игровой коврик 900x400мм, collaboration design, premium surface</description>
+<param name="Бренд">ATK</param>
+<param name="Размер">900x400мм</param>
+</offer>
+
+<offer id="КМ_ATK_99G_Air" available="true">
+<price>2900</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши ATK 99G Air</name>
+<description>Легкий игровой коврик 800x400мм, portable, water-resistant</description>
+<param name="Бренд">ATK</param>
+<param name="Размер">800x400мм</param>
+</offer>
+
+<offer id="КМ_ATK_Base" available="true">
+<price>1900</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Коврик для мыши ATK</name>
+<description>Стандартный игровой коврик 800x400мм, прорезиненная основа</description>
+<param name="Бренд">ATK</param>
+<param name="Размер">800x400мм</param>
+</offer>
+
+<!-- MCHOSE -->
+<offer id="Мш_MCHOSE_A7V2_ProPlus" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE A7 V2 Pro+</name>
+<description>Беспроводная мышь 26000 DPI, 58г, PAW3395, RGB</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_A7V2_UltraPlus" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE A7 V2 Ultra+</name>
+<description>Беспроводная мышь 26000 DPI, 55г, PAW3395, magnetic dock</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_A7RE_Ultra" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE A7 RE Ultra</name>
+<description>Беспроводная мышь 26000 DPI, 53г, PAW3395, special edition</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_G3V2" available="true">
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE G3 V2</name>
+<description>Беспроводная мышь 16000 DPI, 62г, PAW3370, RGB</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_A5V3" available="true">
+<price>4400</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE A5 V3</name>
+<description>Беспроводная мышь 16000 DPI, 60г, PAW3370</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_G7" available="true">
+<price>2900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE G7</name>
+<description>Проводная игровая мышь 12000 DPI, 75г, RGB</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Проводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_M7" available="true">
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE M7</name>
+<description>Беспроводная мышь 12000 DPI, 68г, 2.4GHz</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_M7_Pro" available="true">
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE M7 Pro</name>
+<description>Беспроводная мышь 16000 DPI, 65г, PAW3370</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_M7_Ultra" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE M7 Ultra</name>
+<description>Беспроводная мышь 26000 DPI, 62г, PAW3395</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="Мш_MCHOSE_K7_Ultra" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>2</categoryId>
+<name>Игровая мышь MCHOSE K7 Ultra</name>
+<description>Беспроводная мышь 26000 DPI, 59г, PAW3395, RGB</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводная</param>
+</offer>
+
+<offer id="К_MCHOSE_Ace68_GT" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MCHOSE Ace 68 GT</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, gasket mount</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MCHOSE_Ace60_Pro" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MCHOSE Ace 60 Pro</name>
+<description>60% магнитная клавиатура, Hall Effect switches, RGB</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MCHOSE_Ace68" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MCHOSE Ace 68</name>
+<description>65% магнитная клавиатура, Hall Effect, programmable</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MCHOSE_Ace68_Pro" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MCHOSE Ace 68 Pro</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, wireless</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MCHOSE_Ace68_Air" available="true">
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MCHOSE Ace 68 Air</name>
+<description>65% легкая магнитная клавиатура, Hall Effect, 550г вес</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_MCHOSE_Ace68_Turbo" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MCHOSE Ace 68 Turbo</name>
+<description>65% магнитная клавиатура, Hall Effect, 8000Hz polling</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="Нш_MCHOSE_V9_Turbo" available="true">
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники MCHOSE V9 Turbo</name>
+<description>Беспроводные наушники 2.4GHz, 50мм драйверы, low latency</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="Нш_MCHOSE_V9_TurboPlus" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники MCHOSE V9 Turbo+</name>
+<description>Беспроводные наушники 2.4GHz+BT, 50мм драйверы, ANC</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="Нш_MCHOSE_V9_Pro" available="true">
+<price>5400</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники MCHOSE V9 Pro</name>
+<description>Беспроводные наушники 2.4GHz, 50мм драйверы, surround 7.1</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="Нш_MCHOSE_G9" available="true">
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники MCHOSE G9</name>
+<description>Проводные наушники 3.5mm, 50мм драйверы, микрофон</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Проводные</param>
+</offer>
+
+<offer id="Нш_MCHOSE_G9_Pro" available="true">
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники MCHOSE G9 Pro</name>
+<description>Проводные наушники USB, 50мм драйверы, RGB, surround</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Проводные</param>
+</offer>
+
+<offer id="Нш_MCHOSE_X9" available="true">
+<price>4400</price>
+<currencyId>RUB</currencyId>
+<categoryId>3</categoryId>
+<name>Игровые наушники MCHOSE X9</name>
+<description>Беспроводные наушники 2.4GHz, 40мм драйверы, lightweight</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Беспроводные</param>
+</offer>
+
+<offer id="К_MCHOSE_G75V2" available="true">
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура MCHOSE G75 V2</name>
+<description>75% механическая клавиатура, hot-swap, RGB, gasket</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<offer id="К_MCHOSE_K99V3" available="true">
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура MCHOSE K99 V3</name>
+<description>98% механическая клавиатура, hot-swap, RGB, triple mode</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<offer id="К_MCHOSE_G98V2" available="true">
+<price>7400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>5</categoryId>
+<name>Механическая клавиатура MCHOSE G98 V2</name>
+<description>98% механическая клавиатура, hot-swap, RGB, wireless</description>
+<param name="Бренд">MCHOSE</param>
+<param name="Тип">Механическая</param>
+</offer>
+
+<!-- MADLIONS -->
+<offer id="К_ML_FIRE68_Pro" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS FIRE68 Pro</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, hot-swap</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_FIRE68_Ultra" available="true">
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS FIRE68 Ultra</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, wireless</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_FIRE68_UltraPlus" available="true">
+<price>13900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS FIRE68 Ultra+</name>
+<description>65% магнитная клавиатура, Hall Effect, OLED, wireless</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_MAD60_HE" available="true">
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS MAD60 HE</name>
+<description>60% магнитная клавиатура, Hall Effect switches, RGB</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_MAD68_HE" available="true">
+<price>9400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS MAD68 HE</name>
+<description>65% магнитная клавиатура, Hall Effect, programmable</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_MAD68_Pro" available="true">
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS MAD68 Pro</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, gasket</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_MAD60_Heart" available="true">
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS MAD60 Heart</name>
+<description>60% магнитная клавиатура, Hall Effect, special edition</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_MAD68_Heart" available="true">
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS MAD68 Heart</name>
+<description>65% магнитная клавиатура, Hall Effect, special edition</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_NANO68" available="true">
+<price>8400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS NAN0 68</name>
+<description>65% компактная магнитная клавиатура, Hall Effect</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_NANO68_Pro" available="true">
+<price>10400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS NAN0 68 Pro</name>
+<description>65% магнитная клавиатура, Hall Effect, RGB, wireless</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_LIGHT60_HE" available="true">
+<price>9400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS LIGHT 60 HE</name>
+<description>60% легкая магнитная клавиатура, Hall Effect, 480г</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="К_ML_TITAN68_Turbo" available="true">
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>6</categoryId>
+<name>Магнитная клавиатура MADLIONS TITAN68 Turbo</name>
+<description>65% магнитная клавиатура, Hall Effect, 8000Hz, RGB</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Тип">Магнитная</param>
+</offer>
+
+<offer id="КМ_ML_ZEUS" available="true">
+<price>3400</price>
+<currencyId>RUB</currencyId>
+<categoryId>4</categoryId>
+<name>Игровой Коврик MADLIONS ZEUS</name>
+<description>Игровой коврик 900x400мм, premium surface, anti-slip</description>
+<param name="Бренд">MADLIONS</param>
+<param name="Размер">900x400мм</param>
+</offer>
+
+</offers>
+</shop>
+</yml_catalog>
